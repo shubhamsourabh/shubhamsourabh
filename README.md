@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @shubhamsourabh
-- 👀 I’m interested in Developing Web Apps
-- 🌱 I’m currently learning Node js
-- 💞️ I’m looking to collaborate on Projects Based on MERN 
+- 👋 Hi, I’m @shubhamsourabh 
 - 📫 How to reach me https://twitter.com/Shubham54794520
 
 <!---
